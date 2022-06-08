@@ -36,5 +36,4 @@
  
 :wrench:***Tools***
 
-[[![Solved.ac
-프로필]](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
+(http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
