@@ -36,4 +36,7 @@
  
 :wrench:***Tools***
 
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
+<img src="https://img.shields.io/badge/Git-05032?style=flat&logo=Git&logoColor=white"> [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/tnqkr3494) 
+
+
+
