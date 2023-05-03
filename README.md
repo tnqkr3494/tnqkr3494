@@ -31,7 +31,7 @@
 
 :books:***Learning(still in progress...)***
 
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-#339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/TS-#3178C6?style=flat&logo=TypeScript&logoColor=white">   
+<img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-#339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/TS-#3178C6?style=flat&logo=typescript&logoColor=white">   
 
  
 :wrench:***Tools***
