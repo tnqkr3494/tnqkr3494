@@ -1,31 +1,42 @@
-### Kang :boy: 
-* * *
+<div align="center">
+  
+## Hello I'm Kang ✋
 
-🧑🏻‍💻 ***Introduce***
+<img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png">
+  
+## Skills
+
 <div>
-  <p>
-   Hi ✋
-   I'm a computer engineering student who dreams of becoming a full stack</span> developer 💻
-   
-   And I want to become a good programmer by steadily learning skills from now on!
-  </p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
 
-* * *
+<br/>
 
-✏️ ***Lang***
+## Learning
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
-📕 ***Learning(still in progress...)***
-
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
  
 
+ <br/>
  
-🛠️ ***Tools***
+## Tools
 
-<img src="https://img.shields.io/badge/Git-05032?style=flat&logo=Git&logoColor=white"> [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/tnqkr3494) 
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr3494&layout=compact&theme=dark)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
+</div>
 
 
