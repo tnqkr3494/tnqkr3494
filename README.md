@@ -15,7 +15,7 @@
 
 ✏️ ***Lang***
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494"> 
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 📕 ***Learning(still in progress...)***
 
