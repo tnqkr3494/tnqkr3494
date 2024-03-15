@@ -22,6 +22,12 @@
 
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr3494&layout=compact&theme=dark)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
+
+<br/>
+
 ## Learning
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
@@ -33,10 +39,6 @@
 
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr3494&layout=compact&theme=dark)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr3494)](https://solved.ac/tnqkr3494)
 </div>
 
 
