@@ -2,8 +2,9 @@
   
 ## Hello I'm Kang ✋
 
-<img src="https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png">
-  
+![giphy (1)](https://github.com/tnqkr3494/tnqkr3494/assets/105264785/214c7b80-a09e-41e5-9e74-519707e475bc)
+
+
 ## Skills
 
 <div>
