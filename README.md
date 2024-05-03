@@ -1,8 +1,7 @@
 <div align="center">
   
 ## Hello I'm Kang ✋
-
-![giphy (1)](https://github.com/tnqkr3494/tnqkr3494/assets/105264785/214c7b80-a09e-41e5-9e74-519707e475bc)
+![monkey](https://github.com/tnqkr3494/tnqkr3494/assets/105264785/8875c1ea-c75b-4ff5-9bcf-7ceac45fc18d)
 
 
 ## Skills
