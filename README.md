@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hello I'm Kang ✋
-![monkey](https://github.com/tnqkr3494/tnqkr3494/assets/105264785/8875c1ea-c75b-4ff5-9bcf-7ceac45fc18d)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Linux_5.7_kernel_panic.png" />
 
 
 ## Skills
