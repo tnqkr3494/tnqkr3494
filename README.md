@@ -1,7 +1,7 @@
 <div align="center">
   
 ## Hello I'm Kang ✋
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Linux_5.7_kernel_panic.png" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBmbXRldXNoem9iaXpseXZ1dGZ0MDR2ZHQ3cnJqMjM5anF0MXE0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Tljsv3wVwWKA/giphy.webp" />
 
 
 ## Skills
