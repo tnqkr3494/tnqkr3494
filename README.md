@@ -7,10 +7,10 @@
 
 ## 🔥 Activities
 - [OneTool](https://github.com/likelion-onetool): 3D 모델 도면 거래 플랫폼 `2024.05 ~ 2025.03`
-  - 🏆 세종대 창업 아이디어톤 대상 / IT 창업 기획 컨퍼런스 우수상
+> 🏆 세종대 창업 아이디어톤 대상 / IT 창업 기획 컨퍼런스 우수상
 
 - [ONAIR](https://github.com/GoToSwiss): 환경 연구자를 위한 대기질 분석·예측·시각화 플랫폼 `2025.03 ~ 2025.05`
-  - 🏆 2025 세종대 캡스톤 창의설계경진대회 대상
+> 🏆 2025 세종대 캡스톤 창의설계경진대회 대상
 
 - [Blog](https://github.com/tnqkr3494/ecodev-blog): 기술 학습 기록을 위한 개인 블로그. `2024.03~`
 
