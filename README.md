@@ -36,7 +36,7 @@
 <br/>
 
 ## ✉️ Contacts
-- 💻 [개인 블로그](https://github.com/tnqkr3494/ecodev-blog)
+- 💻 [개인 블로그](https://ecodev-blog.vercel.app/)
 - 📧 [tnqkr3494@naver.com](mailto:tnqkr3494@naver.com)
 
 
